@@ -1,10 +1,10 @@
 # Hi I'm Duck 🦆
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/0.png" width="70">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/1.png" width="70">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/2.png" width="70">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/img/3.png" width="70">
+  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/0.png" width="70">
+  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/1.png" width="70">
+  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/2.png" width="70">
+  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/3.png" width="70">
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ![Samsung](https://img.shields.io/badge/Samsung-A52%205G-blue?style=for-the-badge&logo=samsung)
 ![Windows11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
 ![Windows10](https://img.shields.io/badge/Windows-10%20LTSC-lightblue?style=for-the-badge&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)
@@ -33,6 +33,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Duck-Honey&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duck-Honey&theme=tokyonight" width="49%">
+</p>
+
+---
+
+## 💬 Connect with me!
+<p align="center">
+  <a href="https://github.com/Duck-Honey">
+    <img src="https://img.shields.io/badge/GitHub-Duck--Honey-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://discord.gg/">
+    <img src="https://img.shields.io/badge/Discord-Duckchan-blueviolet?style=for-the-badge&logo=discord">
+  </a>
+</p>
 
 ---
 

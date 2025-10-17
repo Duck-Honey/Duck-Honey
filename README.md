@@ -36,7 +36,7 @@
 
 ### 🖨️ 3D Printing
 ![3D Printer](https://img.shields.io/badge/3D%20Printer-Ender--3%20V3%20SE-ff6f00?style=for-the-badge)
-![Filament](https://img.shields.io/badge/Filament-PLA%2FePLA-00b894?style=for-the-badge)
+![Filament](https://img.shields.io/badge/Filament-PLA%2FPETG-00b894?style=for-the-badge)
 ![Cura](https://img.shields.io/badge/Slicer-Cura-1a73e8?style=for-the-badge&logo=cura)
 ![OctoPrint](https://img.shields.io/badge/Control-OctoPrint-2ecc71?style=for-the-badge&logo=octoprint)
 

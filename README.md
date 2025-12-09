@@ -1,11 +1,5 @@
 # Hi I'm Duck 🦆
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/0.png" width="70">
-  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/1.png" width="70">
-  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/2.png" width="70">
-  <img src="https://raw.githubusercontent.com/Duck-Honey/Duck-Honey/main/img/3.png" width="70">
-</p>
 
 ---
 

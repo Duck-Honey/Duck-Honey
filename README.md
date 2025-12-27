@@ -7,7 +7,7 @@
 
 ### 💻 Platform
 ![macOS](https://img.shields.io/badge/macOS-Mac%20mini%20M1-black?style=for-the-badge&logo=apple)
-![Samsung](https://img.shields.io/badge/Samsung-A52%205G-blue?style=for-the-badge&logo=samsung)
+![Samsung](https://img.shields.io/badge/Samsung-A34%205G-blue?style=for-the-badge&logo=samsung)
 ![Windows11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
 ![Windows10](https://img.shields.io/badge/Windows-10%20LTSC-lightblue?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu)

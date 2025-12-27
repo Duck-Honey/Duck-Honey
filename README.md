@@ -10,7 +10,7 @@
 ![Samsung](https://img.shields.io/badge/Samsung-A34%205G-blue?style=for-the-badge&logo=samsung)
 ![Windows11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
 ![Windows10](https://img.shields.io/badge/Windows-10%20LTSC-lightblue?style=for-the-badge&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)

@@ -48,7 +48,7 @@ b# Hi I'm Duck 🦆
   <a href="https://github.com/Duck-Honey">
     <img src="https://img.shields.io/badge/GitHub-Duck--Honey-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="[https://discordapp.com/users/849191940414373908](https://discord.gg/XhwAwVW9)">
+  <a href="[[https://discordapp.com/users/849191940414373908](https://discord.gg/XhwAwVW9)](https://discord.gg/dYycZRpM)">
     <img src="https://img.shields.io/badge/Discord-Duckchan-blueviolet?style=for-the-badge&logo=discord">
   </a>
 </p>

@@ -54,5 +54,5 @@ b# Hi I'm Duck 🦆
 ---
 
 <p align="center">
-  <i>"Code. Build. Create. Repeat 💫"</i>
+  <i>"Code. Build. Femboy"</i>
 </p>

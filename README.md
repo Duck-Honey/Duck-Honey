@@ -1,4 +1,4 @@
-b# Hi I'm Duck 🦆
+# Hi I'm Duck 🦆
 
 
 ---
@@ -46,7 +46,7 @@ b# Hi I'm Duck 🦆
   <a href="https://github.com/Duck-Honey">
     <img src="https://img.shields.io/badge/GitHub-Duck--Honey-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://discord.gg/dYycZRpM">
+  <a href="https://discord.gg/9NNuHg3q">
     <img src="https://img.shields.io/badge/Discord-Duckchan-blueviolet?style=for-the-badge&logo=discord">
   </a>
 </p>

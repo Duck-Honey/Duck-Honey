@@ -1,4 +1,4 @@
-# Hi I'm Duck 🦆
+# Hi I'm Sorachan 🌌
 
 
 ---
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/GitHub-Duck--Honey-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://discord.gg/9NNuHg3q">
-    <img src="https://img.shields.io/badge/Discord-Duckchan-blueviolet?style=for-the-badge&logo=discord">
+    <img src="https://img.shields.io/badge/Discord-Sorachan-blueviolet?style=for-the-badge&logo=discord">
   </a>
 </p>
 

@@ -1,19 +1,17 @@
 # Hi I'm Sorachan 🌌
-
-
 ---
-
 ## 🧠 Platform, Tools & Language
-
 ### 💻 Platform
 ![macOS](https://img.shields.io/badge/macOS-Mac%20mini%20M1-black?style=for-the-badge&logo=apple)
 ![Samsung](https://img.shields.io/badge/Samsung-A34%205G-blue?style=for-the-badge&logo=samsung)
 ![Windows11](https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows)
 ![Windows10](https://img.shields.io/badge/Windows-10%20LTSC-lightblue?style=for-the-badge&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu)
+![CachyOS](https://img.shields.io/badge/CachyOS-Arch%20Based-1793D1?style=for-the-badge&logo=archlinux)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)
+![Zorin](https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin)
+
 
 ### ⚙️ Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
